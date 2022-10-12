@@ -23,7 +23,8 @@
   "devDependencies": {
     "nodemon": "^1.11.0"
   },
-  "engines": {
-    "node": "6.x"
+   "engines": {
+-    "node": "6.x"
++    "node": "12.x"
   }
 }
